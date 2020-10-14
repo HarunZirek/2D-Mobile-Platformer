@@ -1,2 +1,4 @@
 # TakeN(Unfinished)
  2D mobile platformer
+
+TakeN is my personal 2D platformer mobile game project. All the assets and codes are made by me. I  didn't finish this project because of certain things, i can't make soundtracks or sound effects. Also i can make it better. Except these problems all of the core gameplay mechanics and some of the enemies, save system, sound control system, adversiment system , user interfaces, menus and some levels are completed. Also saved as prefabs. So adding new level, enemies etc. takes shorter time.
