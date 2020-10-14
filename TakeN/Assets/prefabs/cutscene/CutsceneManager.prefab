@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2891261229461868277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2891261229461868278}
+  - component: {fileID: 2891261229461868279}
+  m_Layer: 0
+  m_Name: CutsceneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2891261229461868278
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2891261229461868277}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -744.18445}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2891261229461868279
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2891261229461868277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c31f337f02b58184a9604344c72941cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textDisplay: {fileID: 0}
+  textDisplay2: {fileID: 0}
+  sentences:
+  - Hey!
+  - Are you there?
+  - I'm glad that you are alive after things that happened to us.
+  - They rip us apart!
+  - We were one once!
+  - They took our freedom from us!
+  - They have to pay!
+  - Now RISE!
+  - '"CHAOS"'
+  - What have they done to you?
+  - I promise we will make them regret this!
+  - But first let's get you out of these chains.
+  - 'I''ll give you a shield that protects you from being faded. '
+  - But be carefull, if you let them break it, we lose everything.
+  - Alright, now you have to free me too.
+  - I'm at the place they call "Heaven Tower".
+  - Now hurry! You have to get out of here before they realize what's going on!
+  index: 0
+  typingSpeed: 0.03
+  continueButton: {fileID: 0}
+  Mcamera: {fileID: 0}
+  moveCamera: 0
+  cameraSpeed: 10
+  anim: {fileID: 0}
+  BlackScreenFade: {fileID: 0}
